@@ -1,5 +1,5 @@
 [tr]
-  languageName = "Turkihs"
+  languageName = "Turkish"
   contentDir = "content/tr"
   weight = 15
   [tr.params]
