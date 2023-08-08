@@ -1,7 +1,15 @@
+[tr]
+  languageName = "Turkihs"
+  contentDir = "content/tr"
+  weight = 15
+  [tr.params]
+    languageISO = "TR"
+    languageTag = "tr-TR"
+
 [en]
   languageName = "English"
   contentDir = "content/en"
-  weight = 10
+  weight = 15
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
@@ -9,7 +17,7 @@
 [de]
   languageName = "German"
   contentDir = "content/de"
-  weight = 15
+  weight = 20
   [de.params]
     languageISO = "DE"
     languageTag = "de-DE"
@@ -17,7 +25,7 @@
 [nl]
   languageName = "Nederlands"
   contentDir = "content/nl"
-  weight = 20
+  weight = 25
   [nl.params]
     languageISO = "NL"
     languageTag = "nl-NL"

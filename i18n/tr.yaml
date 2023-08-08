@@ -1,0 +1,17 @@
+- id: get-started
+  translation: "Başlarken"
+
+- id: on-this-page
+  translation: "Bu sayfada"
+
+- id: search-text
+  translation: "Ara..."
+
+- id: 404-title
+  translation: "Sayfa bulunamadı :("
+
+- id: 404-text
+  translation: "Aradığınız sayfa mevcut değil veya taşınmış."
+
+- id: browse
+  translation: "Browse"
