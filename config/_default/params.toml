@@ -2,7 +2,7 @@
 
 ## Homepage
 title = "Stancona [STN]"
-# titleSeparator = "-"
+titleSeparator = "-"
 # titleAddition = "Modern Documentation Theme"
 description = "Stancona, Guild Wars 2 topluluğunu bir araya getirmek ve Türkçe kaynak oluşturmak için kurulmuş bir guilddir."
 
