@@ -11,7 +11,7 @@ menu:
   rehber:
     raid:
       parent: "spirit-vale"
-weight: 100
+weight: 311
 toc: true
 ---
 

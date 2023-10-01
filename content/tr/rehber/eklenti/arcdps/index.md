@@ -10,7 +10,7 @@ type: docs
 menu:
   rehber:
     parent: "eklenti"
-weight: 100
+weight: 510
 toc: true
 ---
 

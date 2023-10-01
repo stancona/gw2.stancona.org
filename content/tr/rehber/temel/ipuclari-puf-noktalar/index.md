@@ -10,7 +10,7 @@ type: docs
 menu:
   rehber:
     parent: "temel"
-weight: 300
+weight: 130
 toc: true
 ---
 

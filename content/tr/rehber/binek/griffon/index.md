@@ -10,7 +10,7 @@ type: docs
 menu:
   rehber:
     parent: "binek"
-weight: 200
+weight: 220
 toc: true
 ---
 
