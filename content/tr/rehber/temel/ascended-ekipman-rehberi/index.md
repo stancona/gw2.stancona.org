@@ -14,8 +14,6 @@ weight: 400
 toc: true
 ---
 
-# Ascended Ekipman Rehberi
-
 "Ascended" kalitedeki ekipmanlar oyundaki en güçlü eşyalardır. Bir ascended ekipman aynı tür 80 level exotic ekipmandan %5, set olarak ise %10-12 civarı daha fazla stat bonusu verir. Ascended kalitedeki ekipmanların gücü legendary kaliteye eşittir. Bütün ascended ekipmanlar hesaba bağlıdır.
 
 ## Upgrade (Yükseltme) Slotu
